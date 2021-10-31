@@ -1,0 +1,1 @@
+# MINTIC-Gestor-de-venta
